@@ -21,12 +21,26 @@ solve current challenges with the library.
 
 ## Target audience
 
-TBW
+If you have used, contributed to, or are just curious about Ferrite.jl we
+encourage you to participate.
 
-Suggested topics:
- - Describe your research and how you use Ferrite.jl
- - Interesting synergies between Ferrite.jl and the rest of the Julia package ecosystem
- - Ideas for Ferrite.jl improvements
+If you have experience with Ferrite.jl we also encourage you to contribute to
+the conference by giving a presentation. Here are some suggested topics that
+would fit well:
+
+ - Present your research and how you use Ferrite.jl (take this opportunity to
+   discuss implementation aspects which are normally not discussed much on
+   regular scientific conferences!)
+ - Present interesting synergies between Ferrite.jl and the rest of the Julia
+   package ecosystem
+ - Describe what you would like to use Ferrite.jl for, and the reasons why you
+   are currently using something else.
+ - Present ideas for future Ferrite.jl improvements and describe how you would
+   like to incorporate it (perhaps describe prior art from other software
+   packages)
+
+If you have another topic you would like to discuss, please feel free to do so,
+as long as you can relate it to Ferrite.jl!
 
 
 ## Location
@@ -35,13 +49,18 @@ The conference will be held at at [TU
 Braunschweig](https://www.tu-braunschweig.de/en/) at the [Institute
 of Applied Mechanics](https://www.tu-braunschweig.de/en/iam).
 
-## Registration
+## Registration and abstract submission
 
-To register, please send an email to Fredrik Ekre
-([f.ekre@tu-braunschweig.de](mailto:f.ekre@tu-braunschweig.de)).
-
+The conference is free of charge, but registration is necessary. To register,
+please send an email to Fredrik Ekre
+([f.ekre@tu-braunschweig.de](mailto:f.ekre@tu-braunschweig.de)) at the latest
+the **1st of September (2022-09-01)**. If you also want to contribute with a
+presentation, include a title and a brief abstract (~100 words, 3-4 sentences).
 
 ## Contact
 
 If you have any questions, please don't hesitate to ask by sending an email to
-Fredrik Ekre ([f.ekre@tu-braunschweig.de](mailto:f.ekre@tu-braunschweig.de)).
+the organizers:
+
+- Fredrik Ekre [f.ekre@tu-braunschweig.de](mailto:f.ekre@tu-braunschweig.de)
+- Knut Andreas Meyer [k.a.meyer@tu-braunschweig.de](mailto:k.a.meyer@tu-braunschweig.de)
