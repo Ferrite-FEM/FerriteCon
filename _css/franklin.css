@@ -64,7 +64,7 @@ html {
   font-family: Arial, serif;
   color: #a6a2a0;
   text-align: center;
-  margin-top: 6em;
+  margin-top: 2em;  /*Changed from 6 to 2 to make logo position look better */
   border-top: 1px solid lightgrey;
   padding-top: 2em;
   margin-bottom: 4em;
@@ -333,4 +333,17 @@ code {
   margin-bottom: 5px;
   border-radius: 0 10px 10px 0;
   border-left: 5px solid #4c9cf1;
+}
+
+/* ==================================================================
+    logos at bottom
+================================================================== */
+
+.bottom-logos {
+  display: flex;
+  justify-content: center;
+  color: #a6a2a0;
+  margin-top: 1em;
+  border-top: 1px solid lightgrey;
+  padding-top: 2em;
 }
