@@ -43,11 +43,13 @@ If you have another topic you would like to discuss, please feel free to do so,
 as long as you can relate it to Ferrite.jl!
 
 
-## Location
+## Time and location
 
 The conference will be held at at [TU
 Braunschweig](https://www.tu-braunschweig.de/en/) at the [Institute
-of Applied Mechanics](https://www.tu-braunschweig.de/en/iam).
+of Applied Mechanics](https://www.tu-braunschweig.de/en/iam) 
+(Pockelsstraße 3, 38106 Braunschweig, Germany)
+on September 26th, starting at 9:00. 
 
 ## Registration and abstract submission
 
