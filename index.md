@@ -15,7 +15,7 @@ The conference aims to improve existing, and find new, scientific
 collaborations among Ferrite.jl users and developers, as well as to discuss
 how the package can be further developed in the future.
 
-The program of the conference will consist of presentations of current research
+The [program](#program) of the conference will consist of presentations of current research
 using Ferrite.jl, followed by a hackathon where participants can discuss and
 solve current challenges with the library.
 
@@ -49,15 +49,34 @@ The conference will be held at at [TU
 Braunschweig](https://www.tu-braunschweig.de/en/) at the [Institute
 of Applied Mechanics](https://www.tu-braunschweig.de/en/iam) 
 (Pockelsstraße 3, 38106 Braunschweig, Germany)
-on September 26th, starting at 9:00. 
+on September 26th, starting at 9:30. 
+
+## Program
+
+| Time        | Activity                                                                   |
+|-------------|----------------------------------------------------------------------------|
+| 09:30-10:00 | Welcome coffee                                                             |
+| 10:00-11:45 | Presentations                                                              |
+| 11:45-13:15 | Lunch break                                                                |
+| 13:15-14:30 | Presentations                                                              |
+| 14:30-15:00 | [Fika](https://en.wikipedia.org/wiki/Fika_(Sweden))                        |
+| 15:00-17:00 | [Hackathon](https://en.wikipedia.org/wiki/Hackathon)                       |
+| 17:00       | Leaving for ["after work"](https://sv.wikipedia.org/wiki/Afterwork)        |
+
+Coffee and snacks for the morning and afternoon will be provided (for free). 
+
+## Presentations
+
+For those of you who are contributing with a presentation: We have allocated 20+5 minutes
+per presentation. Make sure you can connect an HDMI-cable to your computer.
+
 
 ## Registration and abstract submission
 
 The conference is free of charge, but registration is necessary. To register,
 please send an email to Fredrik Ekre
 ([f.ekre@tu-braunschweig.de](mailto:f.ekre@tu-braunschweig.de)) at the latest
-the **1st of September (2022-09-01)**. If you also want to contribute with a
-presentation, include a title and a brief abstract (~100 words, 3-4 sentences).
+the **9th of September (2022-09-09)** (extended deadline for participation). 
 
 ## Contact
 
