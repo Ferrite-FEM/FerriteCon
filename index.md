@@ -70,8 +70,9 @@ on September 26th, starting at 9:30.
 
 Coffee and snacks for the morning and afternoon will be provided (for free). 
 
-The after work will be arranged somewhere where we can order drinks and food. For
-organizational reasons, if you do *not* intend to participate in the evening, please let us
+The after work will be at [Le Feu](https://www.lefeu.de/le-feu-flammkuchen-braunschweig/) where we can order drinks and food. 
+
+For organizational reasons, if you do *not* intend to participate in the evening, please let us
 know!
 
 ## Presentations
