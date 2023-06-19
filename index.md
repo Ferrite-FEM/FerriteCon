@@ -82,7 +82,7 @@ In the spirit of last year we allocate 20+5 minutes per presentation.
 
 The conference is free of charge, but registration is necessary. To register,
 please send an email to Fredrik Ekre
-([maximilian.koehler@ruhr-universität-bochum.de](mailto:maximilian.koehler@ruhr-universität-bochum.de)) at the latest
+([maximilian.koehler@ruhr-uni-bochum.de](mailto:maximilian.koehler@ruhr-uni-bochum.de)) at the latest
 the **31th of August (2023-08-31)** (extended deadline for participation).
 
 ## Contact
@@ -90,4 +90,4 @@ the **31th of August (2023-08-31)** (extended deadline for participation).
 If you have any questions, please don't hesitate to ask by sending an email to
 the organizers:
 
-- Maximilian Köhler [maximilian.koehler@ruhr-universität-bochum.de](mailto:maximilian.koehler@ruhr-universität-bochum.de)
+- Maximilian Köhler [maximilian.koehler@ruhr-uni-bochum.de](mailto:maximilian.koehler@ruhr-uni-bochum.de)
