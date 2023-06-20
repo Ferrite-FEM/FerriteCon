@@ -81,7 +81,7 @@ In the spirit of last year we allocate 20+5 minutes per presentation.
 ## Registration and abstract submission
 
 The conference is free of charge, but registration is necessary. To register,
-please send an email to Fredrik Ekre
+please send an email to Maximilian Köhler
 ([maximilian.koehler@ruhr-uni-bochum.de](mailto:maximilian.koehler@ruhr-uni-bochum.de)) at the latest
 the **31th of August (2023-08-31)** (extended deadline for participation).
 
