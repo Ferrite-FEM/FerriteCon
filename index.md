@@ -4,7 +4,7 @@ hascode = false
 hasmath = false
 +++
 
-# Ferrite.jl User & Developer Conference
+# Ferrite.jl User & Developer Conference 2023
 
 [Ferrite.jl](https://github.com/Ferrite-FEM/Ferrite.jl) is an open-source
 finite element package written in the [Julia programming
