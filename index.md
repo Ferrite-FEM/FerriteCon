@@ -58,7 +58,6 @@ detailed Program TBA
 | Time        | Activity                                                                   |
 |-------------|----------------------------------------------------------------------------|
 | 09:30-10:00 | **Welcome coffee**
-| 10:00-11:00 | **Keynote**
 | 10:00-13:15 | **Presentations**
 | 11:45-13:15 | **Lunch break**
 | 13:15-14:30 | **Presentations**
@@ -91,3 +90,4 @@ If you have any questions, please don't hesitate to ask by sending an email to
 the organizers:
 
 - Maximilian Köhler [maximilian.koehler@ruhr-uni-bochum.de](mailto:maximilian.koehler@ruhr-uni-bochum.de)
+- Fredrik Ekre [f.ekre@tu-braunschweig.de](mailto:f.ekre@tu-braunschweig.de)
