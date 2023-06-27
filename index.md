@@ -1,14 +1,14 @@
 +++
-title = "Ferrite.jl Conference"
+title = "Ferrite.jl Conference 2023"
 hascode = false
 hasmath = false
 +++
 
-# Ferrite.jl User & Developer Conference
+# Ferrite.jl User & Developer Conference 2023
 
 [Ferrite.jl](https://github.com/Ferrite-FEM/Ferrite.jl) is an open-source
 finite element package written in the [Julia programming
-language](https://julialang.org/). On the 6th of October 2023 we will host a
+language](https://julialang.org/). On the 6th of October 2023 we will host another
 Ferrite.jl user and developer conference at Ruhr University Bochum.
 
 The conference aims to improve existing, and find new, scientific
@@ -18,6 +18,9 @@ how the package can be further developed in the future.
 The [program](#program) of the conference will consist of presentations of current research
 using Ferrite.jl, followed by a hackathon where participants can discuss and
 solve current challenges with the library.
+
+The program will be similar to the one from last year, please have a look at
+[Ferrite.jl User & Developer Conference 2022](2022/).
 
 ## Target audience
 
@@ -33,6 +36,7 @@ would fit well:
    regular scientific conferences!)
  - Present interesting synergies between Ferrite.jl and the rest of the Julia
    package ecosystem
+ - Present how you use Ferrite.jl for teaching or for student projects
  - Describe what you would like to use Ferrite.jl for, and the reasons why you
    are currently using something else.
  - Present ideas for future Ferrite.jl improvements and describe how you would
@@ -53,7 +57,7 @@ on October 6th, starting at 9:30.
 
 ## Program
 
-detailed Program TBA
+A preliminary program is given below, more details will follow after registration.
 
 | Time        | Activity                                                                   |
 |-------------|----------------------------------------------------------------------------|
@@ -61,16 +65,14 @@ detailed Program TBA
 | 10:00-13:15 | **Presentations**
 | 11:45-13:15 | **Lunch break**
 | 13:15-14:30 | **Presentations**
-| 14:30-15:00 | [**Fika**](https://en.wikipedia.org/wiki/Fika_(Sweden))
+| 14:30-15:00 | [**Fika (coffee and snacks)**](https://en.wikipedia.org/wiki/Fika_(Sweden))
 | 15:00-17:00 | [**Hackathon**](https://en.wikipedia.org/wiki/Hackathon)
-| 17:00       | **Leaving for ["after work"](https://sv.wikipedia.org/wiki/Afterwork)**
+| 17:00       | **Leaving for dinner
 
-Coffee and snacks for the morning and afternoon will be provided (for free). 
+Coffee and snacks for the morning and afternoon will be provided (for free).
 
-The after work will be at TBA where we can order drinks and food.
-
-For organizational reasons, if you do *not* intend to participate in the evening, please let us
-know!
+The after work will be at some restaurant where we can order drinks and food.
+More information to come.
 
 ## Presentations
 
@@ -82,7 +84,7 @@ In the spirit of last year we allocate 20+5 minutes per presentation.
 The conference is free of charge, but registration is necessary. To register,
 please send an email to Maximilian Köhler
 ([maximilian.koehler@ruhr-uni-bochum.de](mailto:maximilian.koehler@ruhr-uni-bochum.de)) at the latest
-the **31th of August (2023-08-31)** (extended deadline for participation).
+the **31th of August (2023-08-31)**. If you also want to contribute with a presentation, include a title and a brief abstract (~100 words, 3-4 sentences).
 
 ## Contact
 

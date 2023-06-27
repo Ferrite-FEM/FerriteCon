@@ -1,10 +1,10 @@
 +++
-title = "Ferrite.jl Conference"
+title = "Ferrite.jl Conference 2022"
 hascode = false
 hasmath = false
 +++
 
-# Ferrite.jl User & Developer Conference
+# Ferrite.jl User & Developer Conference 2022
 
 [Ferrite.jl](https://github.com/Ferrite-FEM/Ferrite.jl) is an open-source
 finite element package written in the [Julia programming
