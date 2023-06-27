@@ -67,7 +67,7 @@ A preliminary program is given below, more details will follow after registratio
 | 13:15-14:30 | **Presentations**
 | 14:30-15:00 | [**Fika (coffee and snacks)**](https://en.wikipedia.org/wiki/Fika_(Sweden))
 | 15:00-17:00 | [**Hackathon**](https://en.wikipedia.org/wiki/Hackathon)
-| 17:00       | **Leaving for dinner
+| 17:00       | **Leaving for dinner**
 
 Coffee and snacks for the morning and afternoon will be provided (for free).
 
