@@ -54,7 +54,7 @@ The conference will be held at at [Ruhr University Bochum]
 (http://www.lkm.rub.de/)
 (Universitätsstraße 150, 44801 Bochum, Germany)
 on October 6th, starting at 9:30.
-All presentations will be held in the room IC, floor 03, in the rooms 604 & 606 (IC 03/604 and IC 03/606).
+All presentations will be held in the building IC, floor 03, in the rooms 604 & 606 (IC 03/604 and IC 03/606).
 Please note that the floor 03 is a basement floor and a different floor than floor number 3.
 A plan for the campus as a PDF can be found [here](https://www.ruhr-uni-bochum.de/anreise/download/campusplan.pdf).
 
