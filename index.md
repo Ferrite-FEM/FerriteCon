@@ -80,7 +80,7 @@ A preliminary program is given below, more details will follow after registratio
 | 15:50-16:10 | **Thunderbolt.jl - A Fast and Modular Cardiac Multiphysics Simulation Framework on top of Ferrite.jl**, *Dennis Ogiermann*\\Computational cardiology has gained wide attention over the last decade as a candidate to gain a better understanding of the heart function during healthy and diseases conditions, as well as being a tool to improve clinical care through personalized simulations. However, existing simulation frameworks focus either on limited model classes or do not come with an easily hackable solver backend. To overcome this issue I developed [Thunderbolt.jl](https://github.com/termi-official/Thunderbolt.jl), a framework provides an easy to use and modular modeling frontend in tandem with a fully modular solver backend. One great challenge in cardiac multiphysics is to develop energy efficient approaches. Hence the framework is restrited to shared memory environments utilizing CPU and GPU in tandem for the simulations. In this presentation I will give an overview on the architecture of the framework and the next steps.
 | 16:10-16:15 | **Progress Report: Ferrite's HPC Layer**, *Dennis Ogiermann*\\In this presentation I will summarize the recent advances and open issues of the HPC layer development. Two major advances took place since the FerriteCon 2022. First, the distributed memory assembly infrastructure has been moved into its own package [FerriteDistributed.jl](https://github.com/Ferrite-FEM/FerriteDistributed.jl/). This package contains helpers, grids and dof handlers to manage distributed assembly in different distributed sparse matrix formats. Second, there is an ongoing development of an infrastructure for GPU-based methods, which gained lots of attention over the recent years due to superior performance is several use-cases.
 | 16:15-18:30 | [**Hackathon**](https://en.wikipedia.org/wiki/Hackathon)
-| 18:30       | **Leaving for dinner**
+| 19:15       | **Dinner at [Hans im Glück](https://hansimglueck-burgergrill.de/en/burger-restaurant/bochum-kortumstrasse/)**
 
 Coffee and snacks for the morning and afternoon will be provided (for free).
 
@@ -90,6 +90,8 @@ More information to come.
 ## Presentations
 
 In the spirit of last year we allocate 20+5 minutes per presentation.
+All presenters have to use their own laptop and share their slides via Zoom.
+So, please keep your Laptop's Zoom installation up to date.
 
 
 ## Registration and abstract submission
