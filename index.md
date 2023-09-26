@@ -92,6 +92,8 @@ More information to come.
 In the spirit of last year we allocate 20+5 minutes per presentation.
 All presenters have to use their own laptop and share their slides via Zoom.
 So, please keep your Laptop's Zoom installation up to date.
+All presentations will be recorded and uploaded to YouTube.
+If you don't feel comfortable with this, please send a short notice, such that we can delete the recording.
 
 
 ## Registration and abstract submission
