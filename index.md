@@ -58,6 +58,8 @@ All presentations will be held in the building IC, floor 03, in the rooms 604 & 
 Please note that the floor 03 is a basement floor and a different floor than floor number 3.
 A plan for the campus as a PDF can be found [here](https://www.ruhr-uni-bochum.de/anreise/download/campusplan.pdf).
 
+If you would like to attend online via Zoom, please [follow this link](https://ruhr-uni-bochum.zoom.us/j/61775211575?pwd=UTBhVHdwN1hCQ3NSOXAzaTNIMjJ1UT09)
+
 ## Program
 
 A preliminary program is given below, more details will follow after registration.
