@@ -19,8 +19,10 @@ The [program](#program) of the conference will consist of presentations of curre
 using Ferrite.jl, followed by a hackathon where participants can discuss and
 solve current challenges with the library.
 
-The program will be similar to the one from last year, please have a look at
-[Ferrite.jl User & Developer Conference 2023](2023/).
+The program will be similar to the ones from previous years, please have a look
+at previous editions:
+- [FerriteCon 2022 (Braunschweig, Germany)](/2022/)
+- [FerriteCon 2023 (Bochum, Germany)](/2023/)
 
 ## Target audience
 
