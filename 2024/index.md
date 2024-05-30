@@ -54,10 +54,13 @@ as long as you can relate it to Ferrite.jl!
 The conference will be held at [Chalmers University of Technology, Gothenburg]
 (https://www.chalmers.se/en) at the [division of Material and Computational Mechanics]
 (https://www.chalmers.se/en/departments/ims/research/material-computational-mechanics/)
-on September 16th, starting at 9:30.
-All presentations will be held in the Mechanical Engineering building, floor 02, in the rooms "Studio 1" and "Studio 2".
+on September 16th, starting at 9:30. The conference room will be announced at a later date. 
 
-A plan for the campus and map of the entrance can be found [here](https://maps.chalmers.se/#091bd075-f9c1-4e51-bfb3-34267bf0e206), or on [google maps](https://maps.app.goo.gl/ZudGMh89Cv5tVpWp9).
+<!---
+floor 02, in the rooms "Studio 1" and "Studio 2".
+
+A plan of the campus and map of the entrance can be found [here](https://maps.chalmers.se/#091bd075-f9c1-4e51-bfb3-34267bf0e206), or on [google maps](https://maps.app.goo.gl/ZudGMh89Cv5tVpWp9).
+-->
 
 ## Program
 
