@@ -8,10 +8,10 @@ hasmath = false
 
 [Ferrite.jl](https://github.com/Ferrite-FEM/Ferrite.jl) is an open-source
 finite element package written in the [Julia programming
-language](https://julialang.org/). On Monday the 16th of September 2024 we will host another
-Ferrite.jl user and developer conference at Chalmers University of Technology in Göteborg (Gothenburg).
+language](https://julialang.org/). On Monday the 16th of September 2024 we will host the third annual
+Ferrite.jl user and developer conference at Chalmers University of Technology in Gothenburg, Sweden.
 
-The conference aims to improve existing, and find new, scientific
+The conference aims to improve existing, and find new, technical and scientific
 collaborations among Ferrite.jl users and developers, as well as to discuss
 how the package can be further developed in the future.
 
@@ -19,7 +19,7 @@ The [program](#program) of the conference will consist of presentations of curre
 using Ferrite.jl, followed by a hackathon where participants can discuss and
 solve current challenges with the library.
 
-The program will be similar to the ones from previous years, please have a look
+The program will be similar to the program from previous years, please have a look
 at previous editions:
 - [FerriteCon 2022 (Braunschweig, Germany)](/2022/)
 - [FerriteCon 2023 (Bochum, Germany)](/2023/)
@@ -52,9 +52,9 @@ as long as you can relate it to Ferrite.jl!
 ## Time and location
 
 The conference will be held at [Chalmers University of Technology, Gothenburg]
-(https://www.chalmers.se/en) at the [division of Material and Computational Mechanics]
+(https://www.chalmers.se/en) at the [Division of Material and Computational Mechanics]
 (https://www.chalmers.se/en/departments/ims/research/material-computational-mechanics/)
-on September 16th, starting at 9:30. The conference room will be announced at a later date. 
+on September 16th, starting at 9:30. The conference room will be announced at a later date.
 
 <!---
 floor 02, in the rooms "Studio 1" and "Studio 2".
@@ -70,14 +70,14 @@ A preliminary program is given below, more details will follow after registratio
 |-------------|----------------------------------------------------------------------------|
 | 09:30-10:00 | **Welcome coffee**
 | 10:00-10:05 | **Opening and introduction**
-| 10:05-11:00 | **Keynote **
+| 10:05-11:00 | **Keynote lecture**
 | 11:00-16:00 | **Presentations**
 | 16:15-18:30 | [**Hackathon**](https://en.wikipedia.org/wiki/Hackathon)
 | 19:15       | **Dinner**
 
 Coffee and snacks for the morning and afternoon will be provided (for free).
 
-The dinner will be at some restaurant where we can order drinks and food.
+The dinner will be arranged at some restaurant where we can order drinks and food.
 More information to come.
 
 ## Presentations
@@ -105,4 +105,4 @@ the organizers:
 
 - Elias Börjesson [elias.borjesson@chalmers.se](mailto:elias.borjesson@chalmers.se)
 - Kim Auth [kim.auth@chalmers.se](mailto:kim.auth@chalmers.se)
-- Fredrik Ekre [f.ekre@tu-braunschweig.de](mailto:f.ekre@tu-braunschweig.de)
+- Fredrik Ekre [ekrefredrik@gmail.com](mailto:ekrefredrik@gmail.com)
