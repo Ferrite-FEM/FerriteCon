@@ -8,7 +8,7 @@ hasmath = false
 
 [Ferrite.jl](https://github.com/Ferrite-FEM/Ferrite.jl) is an open-source
 finite element package written in the [Julia programming
-language](https://julialang.org/). On the 16th of September 2024 we will host another
+language](https://julialang.org/). On Monday the 16th of September 2024 we will host another
 Ferrite.jl user and developer conference at Chalmers University of Technology in Göteborg (Gothenburg).
 
 The conference aims to improve existing, and find new, scientific
