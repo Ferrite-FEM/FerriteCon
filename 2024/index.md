@@ -83,7 +83,7 @@ More information to come.
 ## Presentations
 
 In the spirit of last year we allocate 20+5 minutes per presentation.
-All presenters have to use their own laptop. The presentations will be streamed via a zoom meeting.
+All presenters have to use their own laptop. The presentations will be streamed via a Zoom meeting.
 Online presentations are possible, but in-person talks will be prioritized if necessary.
 <!---
  and share their slides via Zoom.
@@ -97,7 +97,7 @@ If you don't feel comfortable with this, please send a short notice, such that w
 The conference is free of charge, but registration is necessary. To register,
 please send an email to Elias Börjesson
 ([elias.borjesson@chalmers.se](mailto:elias.borjesson@chalmers.se)) at the latest
-the **31th of August (2024-08-31)**. If you also want to contribute with a presentation, include a title and a brief abstract (~100 words, 3-4 sentences).
+the **31th of August (2024-08-31)**. If you also want to contribute with a presentation, include a title and a brief abstract (~100 words, 3-4 sentences). Also mention if you plan to present remotely via Zoom, or at the conference.
 
 ## Contact
 
