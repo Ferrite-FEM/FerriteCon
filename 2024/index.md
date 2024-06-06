@@ -83,7 +83,8 @@ More information to come.
 ## Presentations
 
 In the spirit of last year we allocate 20+5 minutes per presentation.
-All presenters have to use their own laptop.
+All presenters have to use their own laptop. The presentations will be streamed via a zoom meeting.
+Online presentations are possible, but in-person talks will be prioritized if necessary.
 <!---
  and share their slides via Zoom.
 So, please keep your Laptop's Zoom installation up to date.
