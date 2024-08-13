@@ -6,7 +6,7 @@ hasmath = false
 
 # FerriteCon 2024 & Julia Meetup Gothenburg
 
-This year we will combine FerriteCon 2024 with the first [Julia meetup](#julia-meetup-gothenburg) in Gothenburg, Sweden! Find the [program](#program) and information about [time and location](#time-and-location) below.  
+This year we will combine FerriteCon 2024 with the first [Julia meetup](#julia_meetup_gothenburg) in Gothenburg, Sweden! Find the [program](#program) and information about [time and location](#time_and_location) below.  
 
 ## Ferrite.jl User & Developer Conference 2024
 [Ferrite.jl](https://github.com/Ferrite-FEM/Ferrite.jl) is an open-source
@@ -55,14 +55,14 @@ as long as you can relate it to Ferrite.jl!
 
 We are happy to announce the first Julia user meetup in Gothenburg, Sweden. The meetup will be held in conjunction with the FerriteCon, and will take place at [Chalmers University of Technology](https://www.chalmers.se/en). During the meetup, Julia famous [Chris Rackauckas](https://chrisrackauckas.com/) will give a keynote lecture on TBD.  
 
-More information about registering for the [meetup](#registration-and-abstract-submission) below.
+To register for the julia meet-up, please send an email to Elias Börjesson (elias.borjesson@chalmers.se)
 
 ## Time and location
 
 The conference and meetup will be held at [Chalmers University of Technology, Gothenburg]
 (https://www.chalmers.se/en) at the [Division of Material and Computational Mechanics]
 (https://www.chalmers.se/en/departments/ims/research/material-computational-mechanics/)
-on September 16th. FerriteCon will start at 9.30, and the Julia meetup will be in the afternoon (exact time will be given later). 
+on September 16th. FerriteCon will start at 9.30, and the Julia meetup will be in the afternoon (exact time will be given at a later date). 
 
 The conference and Julia meetup will be in room VDL (see [Chalmers Map] (https://maps.chalmers.se/#b2649ae7-0cdd-43ea-8fd5-b5a4618e71d3) or [Google Map] (https://maps.app.goo.gl/n4FaC5B98DJAMJuTA)). Entrence to VDL is from Chalmers Tvärgata 4C.
 
