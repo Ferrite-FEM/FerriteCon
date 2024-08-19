@@ -6,7 +6,7 @@ hasmath = false
 
 # FerriteCon 2024 & Julia Meetup Gothenburg
 
-This year we will combine FerriteCon 2024 with the first [Julia meetup](#julia_meetup_gothenburg) in Gothenburg, Sweden! Find the [program](#program) and information about [time and location](#time_and_location) below.  
+This year FerriteCon 2024 will be co-located with the first [Julia meetup](#julia_meetup_gothenburg) in Gothenburg, Sweden! Find the [program](#program) and information about [time and location](#time_and_location) below.
 
 ## Ferrite.jl User & Developer Conference 2024
 [Ferrite.jl](https://github.com/Ferrite-FEM/Ferrite.jl) is an open-source
@@ -20,7 +20,7 @@ how the package can be further developed in the future.
 
 [Chris Rackauckas](https://chrisrackauckas.com/) will give a keynote lecture about TBD.  
 
-The [program](#program) of the conference will consist of beginner-friendly presentations on Ferrite.jl and of current research
+The [program](#program) of the conference will consist of both beginner-friendly and advanced presentations on Ferrite.jl and of current research
 using Ferrite.jl.
 
 You can also have a look at the program of previous editions of FerriteCon:
@@ -53,7 +53,7 @@ as long as you can relate it to Ferrite.jl!
 
 ## Julia Meetup Gothenburg
 
-We are happy to announce the first Julia user meetup in Gothenburg, Sweden. The meetup will be held in conjunction with the FerriteCon, and will take place at [Chalmers University of Technology](https://www.chalmers.se/en). During the meetup, Julia famous [Chris Rackauckas](https://chrisrackauckas.com/) will give a keynote lecture on TBD.  
+We are happy to announce the first Julia user meetup in Gothenburg, Sweden. The meetup will be held in conjunction with FerriteCon, and will take place at [Chalmers University of Technology](https://www.chalmers.se/en). During the meetup [Dr. Chris Rackauckas](https://chrisrackauckas.com/) will give a keynote lecture (title TBD).  
 
 To register for the julia meet-up, please send an email to Elias Börjesson (elias.borjesson@chalmers.se)
 
