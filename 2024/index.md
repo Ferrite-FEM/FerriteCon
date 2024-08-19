@@ -18,7 +18,7 @@ The conference aims to improve existing, and find new, technical and scientific
 collaborations among Ferrite.jl users and developers, as well as to discuss
 how the package can be further developed in the future.
 
-[Chris Rackauckas](https://chrisrackauckas.com/) will give a keynote lecture about TBD.  
+[Chris Rackauckas](https://chrisrackauckas.com/) will give a keynote lecture about _Extending the Julia SciML Ecosystem to a Backbone for PDEs_. 
 
 The [program](#program) of the conference will consist of both beginner-friendly and advanced presentations on Ferrite.jl and of current research
 using Ferrite.jl.
@@ -51,9 +51,23 @@ would fit well:
 If you have another topic you would like to discuss, please feel free to do so,
 as long as you can relate it to Ferrite.jl!
 
+**Presentations for FerriteCon**
+
+In the spirit of last year we allocate 20+5 minutes per presentation.
+All presenters have to use their own laptop. The presentations will be streamed via a Zoom meeting.
+Online presentations are possible, but in-person talks will be prioritized if necessary.
+<!---
+ and share their slides via Zoom.
+So, please keep your Laptop's Zoom installation up to date.
+All presentations will be recorded and uploaded to YouTube.
+If you don't feel comfortable with this, please send a short notice, such that we can delete the recording.
+-->
+
 ## Julia Meetup Gothenburg
 
-We are happy to announce the first Julia user meetup in Gothenburg, Sweden. The meetup will be held in conjunction with FerriteCon, and will take place at [Chalmers University of Technology](https://www.chalmers.se/en). During the meetup [Dr. Chris Rackauckas](https://chrisrackauckas.com/) will give a keynote lecture (title TBD).  
+We are happy to announce the first Julia user meetup in Gothenburg, Sweden. The meetup will be held in conjunction with FerriteCon, and will take place at [Chalmers University of Technology](https://www.chalmers.se/en). During the meetup [Dr. Chris Rackauckas](https://chrisrackauckas.com/) will give a keynote lecture about _Extending the Julia SciML Ecosystem to a Backbone for PDEs_. 
+
+__About Dr. Chris Rackauckas__: _Dr. Chris Rackauckas is the VP of Modeling and Simulation at JuliaHub, the Director of Scientific Research at Pumas-AI, Co-PI of the Julia Lab at MIT, and the lead developer of the SciML Open Source Software Organization. For his work in mechanistic machine learning, his work is credited for the 15,000x acceleration of NASA Launch Services simulations and recently demonstrated a 60x-570x acceleration over Modelica tools in HVAC simulation, earning Chris the US Air Force Artificial Intelligence Accelerator Scientific Excellence Award. See more at https://chrisrackauckas.com/. He is the lead developer of the Pumas project and has received a top presentation award at every ACoP in the last 3 years for improving methods for uncertainty quantification, automated GPU acceleration of nonlinear mixed effects modeling (NLME), and machine learning assisted construction of NLME models with DeepNLME. For these achievements, Chris received the Emerging Scientist award from ISoP._
 
 To register for the julia meet-up, please send an email to Elias Börjesson (elias.borjesson@chalmers.se)
 
@@ -81,27 +95,15 @@ A preliminary program is given below, more details will follow after registratio
 | 09:30-10:00 | **Welcome coffee**
 | 10:00-10:05 | **Opening and introduction**
 | 10:05-      | **Ferrite.jl presentations**
-| After lunch | **Julia user Meet-up**
-|             | **Keynote lecture by Chris Rackauckas**
 |             | [**Hackathon**](https://en.wikipedia.org/wiki/Hackathon)
+| Afternoon   | **Julia user Meet-up**
+|             | **Keynote lecture by Chris Rackauckas**
 | 19:00       | **Dinner**
 
 Coffee and snacks for the morning will be provided (for free).
 
 The dinner will be arranged at some restaurant where we can order drinks and food.
 More information to come.
-
-## Presentations
-
-In the spirit of last year we allocate 20+5 minutes per presentation.
-All presenters have to use their own laptop. The presentations will be streamed via a Zoom meeting.
-Online presentations are possible, but in-person talks will be prioritized if necessary.
-<!---
- and share their slides via Zoom.
-So, please keep your Laptop's Zoom installation up to date.
-All presentations will be recorded and uploaded to YouTube.
-If you don't feel comfortable with this, please send a short notice, such that we can delete the recording.
--->
 
 ## Registration and abstract submission
 
