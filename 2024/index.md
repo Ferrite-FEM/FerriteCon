@@ -65,7 +65,7 @@ If you don't feel comfortable with this, please send a short notice, such that w
 
 ## Julia Meetup Gothenburg
 
-We are happy to announce the first Julia user meetup in Gothenburg, Sweden. The meetup will be held in conjunction with FerriteCon, and will take place at [Chalmers University of Technology](https://www.chalmers.se/en). During the meetup [Dr. Chris Rackauckas](https://chrisrackauckas.com/) will give a keynote lecture about _Extending the Julia SciML Ecosystem to a Backbone for PDEs_. 
+We are happy to announce the first Julia user meetup in Gothenburg, Sweden. The meetup will be held in conjunction with FerriteCon, and will take place at [Chalmers University of Technology](https://www.chalmers.se/en). During the meetup [Dr. Chris Rackauckas](https://chrisrackauckas.com/) will give a keynote lecture about _Extending the Julia SciML Ecosystem to a Backbone for PDEs_. The keynote will start at 15.00.
 
 __About Dr. Chris Rackauckas__: _Dr. Chris Rackauckas is the VP of Modeling and Simulation at JuliaHub, the Director of Scientific Research at Pumas-AI, Co-PI of the Julia Lab at MIT, and the lead developer of the SciML Open Source Software Organization. For his work in mechanistic machine learning, his work is credited for the 15,000x acceleration of NASA Launch Services simulations and recently demonstrated a 60x-570x acceleration over Modelica tools in HVAC simulation, earning Chris the US Air Force Artificial Intelligence Accelerator Scientific Excellence Award. See more at https://chrisrackauckas.com/. He is the lead developer of the Pumas project and has received a top presentation award at every ACoP in the last 3 years for improving methods for uncertainty quantification, automated GPU acceleration of nonlinear mixed effects modeling (NLME), and machine learning assisted construction of NLME models with DeepNLME. For these achievements, Chris received the Emerging Scientist award from ISoP._
 
@@ -94,11 +94,15 @@ A preliminary program is given below, more details will follow after registratio
 |-------------|----------------------------------------------------------------------------|
 | 09:30-10:00 | **Welcome coffee**
 | 10:00-10:05 | **Opening and introduction**
-| 10:05-      | **Ferrite.jl presentations**
-|             | [**Hackathon**](https://en.wikipedia.org/wiki/Hackathon)
-| Afternoon   | **Julia user Meet-up**
-|             | **Keynote lecture by Chris Rackauckas**
+| 10:05-12.00 | **Ferrite.jl presentations**
+| 12.00-13.00 | **Lunch**
+| 13:00-14.30 | **Ferrite.jl presentations**
+| 14.30-15.00 | **[Fika](https://en.wikipedia.org/wiki/Coffee_culture#Sweden) and mingle**
+|             | **Julia user Meet-up**
+| 15.00-16.00 | **Keynote lecture by Chris Rackauckas**
+| 16:00 -     | **Hackathon and open discussion**
 | 19:00       | **Dinner**
+
 
 Coffee and snacks for the morning will be provided (for free).
 
@@ -107,12 +111,10 @@ More information to come.
 
 ## Registration and abstract submission
 
-The conference and meetup is free of charge, but registration is necessary. To register,
-please send an email to Elias Börjesson
+The conference and meetup is free of charge, but registration is necessary. To register as a speaker,
+please send an email containing a title and a brief abstract (~100 words, 3-4 sentences) to Elias Börjesson
 ([elias.borjesson@chalmers.se](mailto:elias.borjesson@chalmers.se)) at the latest
-the **31th of August (2024-08-31)**. If you also want to contribute with a presentation for FerriteCon, include a title and a brief abstract (~100 words, 3-4 sentences). 
-
-If you only want to join the Julia meetup in the afternoon, please mention that in the registration.
+the **31th of August (2024-08-31)**.  If you want to attend without presenting, please register as soon as possible, but latest **13th of August (2024-09-13)**. 
 
 ## Contact
 
