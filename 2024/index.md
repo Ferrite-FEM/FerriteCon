@@ -110,12 +110,10 @@ More information to come.
 
 ## Registration and abstract submission
 
-The conference and meetup is free of charge, but registration is necessary. To register,
-please send an email to Elias Börjesson
+The conference and meetup is free of charge, but registration is necessary. To register as a speaker,
+please send an email containing a title and a brief abstract (~100 words, 3-4 sentences) to Elias Börjesson
 ([elias.borjesson@chalmers.se](mailto:elias.borjesson@chalmers.se)) at the latest
-the **31th of August (2024-08-31)**. If you also want to contribute with a presentation for FerriteCon, include a title and a brief abstract (~100 words, 3-4 sentences). 
-
-If you only want to join the Julia meetup in the afternoon, please mention that in the registration.
+the **31th of August (2024-08-31)**.  If you want to attend without presenting, please register as soon as possible, but latest **13th of August (2024-09-13)**. 
 
 ## Contact
 
