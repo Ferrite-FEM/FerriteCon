@@ -100,6 +100,7 @@ A preliminary program is given below, more details will follow after registratio
 | 14.30-15.00 | **[Fika](https://en.wikipedia.org/wiki/Coffee_culture#Sweden) and mingle**
 |             | **Julia user Meet-up**
 | 15.00-16.00 | **Keynote lecture by Chris Rackauckas**
+| 16:00 -     | **Hackathon and open discussion**
 | 19:00       | **Dinner**
 
 
