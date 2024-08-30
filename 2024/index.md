@@ -114,7 +114,7 @@ More information to come.
 The conference and meetup is free of charge, but registration is necessary. To register as a speaker,
 please send an email containing a title and a brief abstract (~100 words, 3-4 sentences) to Elias Börjesson
 ([elias.borjesson@chalmers.se](mailto:elias.borjesson@chalmers.se)) at the latest
-the **31th of August (2024-08-31)**.  If you want to attend without presenting, please register as soon as possible, but latest **13th of August (2024-09-13)**. 
+the **31th of August (2024-08-31)**.  If you want to attend without presenting, please register as soon as possible, but latest **13th of September (2024-09-13)**. 
 
 ## Contact
 
