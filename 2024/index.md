@@ -97,14 +97,15 @@ A preliminary program is given below, more details will follow after registratio
 | 10:05-10:50 | **Introduction to Ferrite.jl**\\ *Knut Andreas Meyer*\\
 | 10:50-11:15 | **2 years of Ferrite.jl**\\ *Fredrik Ekre*\\
 | 11:15-11:40 | **Mesh-adaptivity - Another Year of Bitshifting, Progress Report on Morton Index-based Octree Datastructures**\\ *Max Köhler*\\
-| 11.35-13.00 | **Lunch**
+| 11.40-13.00 | **Lunch**
 | 13:05-13.30 | **Efficient adaptive mesh refinement data-structures and algorithms for local timestepping.**\\ Abdulaziz Mohamed \\
 | 13:30-13.55 | **Adventures in PDE Discretizations - Utilizing Spatial Structure for Fast Solvers.**\\ Dennis Ogiermann \\
+| 13:55-14.20 | **5 years of working with Ferrite.jl in research**\\ Kim Louisa Auth and Elias Börjesson \\
 |             | **Julia user Meet-up**
 | 14.30-15.00 | **[Fika](https://en.wikipedia.org/wiki/Coffee_culture#Sweden) and mingle**
 | 15.00-16.00 | **[Keynote] Extending the Julia SciML Ecosystem to a Backbone for PDEs** \\*Chris Rackauckas* \\
 | 16:00 -     | **Hackathon and open discussion**
-| 19:00       | **Dinner**
+| 18:00       | **Dinner**
 
 
 Coffee and snacks for the morning will be provided (for free).
