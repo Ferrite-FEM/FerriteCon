@@ -110,6 +110,10 @@ Coffee and snacks for the morning will be provided (for free).
 
 The dinner will be arranged for those who want, and will be at Ölstugan Tullen Avenyn, where we can order drinks and food.
 
+## Watch online:
+If you want to watch the presentation online, join the following zoom link:
+(https://chalmers.zoom.us/j/64330023585)[https://chalmers.zoom.us/j/64330023585] (Password: ferrite24)
+
 ## Registration and abstract submission
 
 The conference and meetup is free of charge, but registration is necessary. To register as a speaker,
