@@ -78,13 +78,11 @@ The conference and meetup will be held at [Chalmers University of Technology, Go
 (https://www.chalmers.se/en/departments/ims/research/material-computational-mechanics/)
 on September 16th. FerriteCon will start at 9.30, and the Julia meetup will be in the afternoon (exact time will be given at a later date). 
 
-The conference and Julia meetup will be in room VDL (see [Chalmers Map] (https://maps.chalmers.se/#b2649ae7-0cdd-43ea-8fd5-b5a4618e71d3) or [Google Map] (https://maps.app.goo.gl/n4FaC5B98DJAMJuTA)). Entrence to VDL is from Chalmers Tvärgata 4C.
+The conference and Julia meetup will be in room VDL (see [Chalmers Map] (https://maps.chalmers.se/#b2649ae7-0cdd-43ea-8fd5-b5a4618e71d3) or [Google Map] (https://maps.app.goo.gl/n4FaC5B98DJAMJuTA)). Entrence to VDL is from Chalmers Tvärgata 4C. Path from tram stop "Chalmers" or bus stop "Chalmers Tvärgata" seen here:
+![pathfrombus](/assets/2024/vdl_ferrite_instructions2.png)
 
-<!---
-floor 02, in the rooms "Studio 1" and "Studio 2".
-
-A plan of the campus and map of the entrance can be found [here](https://maps.chalmers.se/#091bd075-f9c1-4e51-bfb3-34267bf0e206), or on [google maps](https://maps.app.goo.gl/ZudGMh89Cv5tVpWp9).
--->
+The entrance is indicated by the red arrow (image is taken from the location indicated in the image above).
+![imageofalley](/assets/2024/image_of_alley.jpg)
 
 ## Program
 
@@ -110,8 +108,11 @@ A preliminary program is given below, more details will follow after registratio
 
 Coffee and snacks for the morning will be provided (for free).
 
-The dinner will be arranged at some restaurant where we can order drinks and food.
-More information to come.
+The dinner will be arranged for those who want, and will be at Ölstugan Tullen Avenyn, where we can order drinks and food.
+
+## Watch online:
+If you want to watch the presentation online, join the following zoom link:
+(https://chalmers.zoom.us/j/64330023585)[https://chalmers.zoom.us/j/64330023585] (Password: ferrite24)
 
 ## Registration and abstract submission
 
