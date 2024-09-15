@@ -112,7 +112,7 @@ The dinner will be arranged for those who want, and will be at Ölstugan Tullen 
 
 ## Watch online:
 If you want to watch the presentation online, join the following zoom link:
-(https://chalmers.zoom.us/j/64330023585)[https://chalmers.zoom.us/j/64330023585] (Password: ferrite24)
+[https://chalmers.zoom.us/j/64330023585](https://chalmers.zoom.us/j/64330023585) (Password: ferrite24)
 
 ## Registration and abstract submission
 
