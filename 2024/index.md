@@ -92,7 +92,6 @@ A preliminary program is given below, more details will follow after registratio
 |-------------|----------------------------------------------------------------------------|
 | 09:30-10:00 | **Welcome coffee**
 | 10:00-10:05 | **Opening and introduction**
-
 | 10:05-10:50 | **Introduction to Ferrite.jl** ([slides](/assets/2024/FerriteCon_FerriteIntro.pdf))\\ *Knut Andreas Meyer*\\
 | 10:50-11:15 | **Ferrite.jl version 1.0.0 -- What has changed and why?**\\ *Fredrik Ekre*\\
 | 11:15-11:40 | **Mesh-adaptivity - Another Year of Bitshifting, Progress Report on Morton Index-based Octree Datastructures**\\ *Max Köhler*\\
