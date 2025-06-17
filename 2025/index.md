@@ -54,8 +54,8 @@ as long as you can relate it to Ferrite.jl!
 To register without a presentation, please register as soon as possible, but latest **15th of August (2025-08-15)**,
 by sending an email with name and affiliation to [Kim Louisa Auth](mailto:kloau@dtu.dk).
 
-To register as a speaker, please submit a title and a brief abstract (~100 words, 3-4 sentences) to *TBD*
-[Kim Louisa Ath](mailto:kloau@dtu.dk) by the **31th of July (2025-07-31)**.
+To register as a speaker, please submit a title and a brief abstract (~100 words, 3-4 sentences) to
+[Kim Louisa Auth](mailto:kloau@dtu.dk) by the **15th of July (2025-07-15)**.
 
 ## Contact
 If you have any questions, please don't hesitate to ask by sending an email to
