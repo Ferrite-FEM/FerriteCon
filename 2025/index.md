@@ -5,7 +5,7 @@ hasmath = false
 +++
 
 # FerriteCon 2025
-FerriteCon 2025 will take place at [Technical University of Denmark (DTU)](https://www.dtu.dk/english/) 
+FerriteCon 2025 will take place at the [Technical University of Denmark (DTU)](https://www.dtu.dk/english/) 
 outside Copenhagen, Denmark, on August 28th, 2025, supported by
 [The Danish Center for Applied Mathematics and Mechanics, DCAMM](http://www.dcamm.dk).
 
@@ -13,7 +13,7 @@ outside Copenhagen, Denmark, on August 28th, 2025, supported by
 [Ferrite.jl](https://ferrite-fem.github.io/Ferrite.jl/stable/) is an open-source
 finite element package written in the [Julia programming
 language](https://julialang.org/). On Thursday the 28th of August 2025 we will host the fourth annual
-Ferrite.jl user and developer conference at the Technical University of Denmark (DTU) in Lungby, Denmark.
+Ferrite.jl user and developer conference at the Technical University of Denmark (DTU) in Lyngby, Denmark.
 
 The conference aims to improve existing, and find new, technical and scientific
 collaborations among Ferrite.jl users and developers, as well as to discuss
@@ -52,10 +52,10 @@ as long as you can relate it to Ferrite.jl!
 
 ## Registration and abstract submission
 To register without a presentation, please register as soon as possible, but latest **15th of August (2025-08-15)**,
-by sending an email with name and affiliation to [**TBD**](mailto:xxx@xxx.com).
+by sending an email with name and affiliation to [Kim Louisa Auth](mailto:kloau@dtu.dk).
 
 To register as a speaker, please submit a title and a brief abstract (~100 words, 3-4 sentences) to *TBD*
-[**TBD**](mailto:xxx@xxx.com) by the **31th of July (2025-07-31)**.
+[Kim Louisa Ath](mailto:kloau@dtu.dk) by the **31th of July (2025-07-31)**.
 
 ## Contact
 If you have any questions, please don't hesitate to ask by sending an email to
