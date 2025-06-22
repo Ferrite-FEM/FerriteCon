@@ -62,4 +62,4 @@ If you have any questions, please don't hesitate to ask by sending an email to
 the organizers:
 
 - Kim Louisa Auth [kloau@dtu.dk](mailto:kloau@dtu.dk)
-- Knut Andreas Meyer [knut.andreas.meyer@chalmers.com](mailto:knut.andreas.meyer@chalmers.se)
+- Knut Andreas Meyer [knut.andreas.meyer@chalmers.se](mailto:knut.andreas.meyer@chalmers.se)
