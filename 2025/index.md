@@ -55,7 +55,7 @@ To register without a presentation, please register as soon as possible, but lat
 by sending an email with name and affiliation to [Kim Louisa Auth](mailto:kloau@dtu.dk).
 
 To register as a speaker, please submit a title and a brief abstract (~100 words, 3-4 sentences) to
-[Kim Louisa Auth](mailto:kloau@dtu.dk) by the ~~**15th of July (2025-07-15)**~~ **25th of July (2025-07-25)**.
+[Kim Louisa Auth](mailto:kloau@dtu.dk) by the ~~~<s>15th of July (2025-07-15)</s>~~~  **25th of July (2025-07-25)**.
 
 ## Contact
 If you have any questions, please don't hesitate to ask by sending an email to
