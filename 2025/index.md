@@ -20,6 +20,28 @@ collaborations among Ferrite.jl users and developers, as well as to discuss
 how the package can be further developed in the future. The conference will consist of both beginner-friendly 
 and advanced presentations on Ferrite.jl and of current research using Ferrite.jl.
 
+### Preliminary schedule
+
+| Time        | Activity                                                                   |
+|-------------|----------------------------------------------------------------------------|
+| 09:00-09:30 | **Welcome coffee**
+| 09:30-09:35 | **Opening and introduction**
+| 09:35-10:15 | **[Keynote] Differentiable programming for scientific computing with Enzyme and Julia**\\ *Valentin Churavy* (University of Augsburg) \\ <!--Title 1-->
+| 10:15-10:55 | **Introduction to Ferrite.jl** \\ *TBA*\\ <!--Title 2-->
+| 10:55-11:10 | Coffee break
+| 11:10-11:35 | **Title 3**\\ *TBA*\\ Abstract \\ <!--Hannover-->
+| 11:35-12:00 | **Title 4**\\ *TBA*\\ Abstract \\ <!--Lucas-->
+| 12.00-13.15 | **Lunch**
+| 13:15-13:40 | **Title 5**\\ *TBA* \\ Abstract \\ <!--Fredrik "What's new" ? -->
+| 13:40-14.05 | **Title 6**\\ *TBA* \\ Abstract \\ <!--Tuan-->
+| 14:05-14.30 | **Title 7** \\ *TBA* \\ Abstract \\ <!--Basavesh-->
+| 14.30-15.00 | **[Fika](https://en.wikipedia.org/wiki/Coffee_culture#Sweden)**
+| 15:00-15.25 | **Title 8**\\ *TBA* \\ Abstract \\ <!--Kristoffer ? -->
+| 15:25-15.50 | **Title 9**\\ *TBA* \\ Abstract \\ <!--KAM H(div) / H(curl)-->
+| 15:50-16.15 | **Title 10**\\ *TBA* \\ Abstract \\ <!--???-->
+| 16:15-17:30 | **Hackathon and open discussion**
+| 18:00       | **Dinner**
+
 You can also have a look at the program of previous editions of FerriteCon:
 - [FerriteCon 2022 (Braunschweig, Germany)](/2022/)
 - [FerriteCon 2023 (Bochum, Germany)](/2023/)
