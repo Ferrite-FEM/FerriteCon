@@ -29,8 +29,8 @@ Click on the titles with grey background to expand the abstract.
 | 09:25-09:30 | **Opening and introduction**
 | 09:30-10:15 | **_Keynote_** \\ **Differentiable programming for scientific computing with Enzyme and Julia**\\ *Valentin Churavy*, University of Augsburg
 | 10:15-10:50 | **Introduction to Ferrite.jl** \\ *Kim Louisa Auth*, Technical University of Denmark \\ 
-| 10:50-11:00 | Coffee break
-| 11:00-11:25 | \collaps{**Current applications of Ferrite.jl at Institute of Continuum Mechanics (Leibniz University Hannover)**\\*Speaker: TBA*}{
+| 10:50-11:10 | Coffee break
+| 11:10-11:30 | \collaps{**Current applications of Ferrite.jl at Institute of Continuum Mechanics (Leibniz University Hannover)**\\*Speaker: TBA*}{
     The research spectrum of IKM covers the modelling and numerically efficient solution of complex
     material behavior, including topology optimization and uncertainty quantification. The solution of
     the derived equations generally relies on the Finite Element Method but also requires significant
@@ -39,34 +39,43 @@ Click on the titles with grey background to expand the abstract.
     We present examples on uncertainty quantifications, topology optimization and coupled
     problems, showing the numerical implementation and results, which highlight the application of
     Ferrite.jl and discuss the package expansion possibilities.} \\
-| 11:25-11:50 | \collaps{**Ensemble Kalman Filtering for Stochastic Phase Field Models of Brittle Fracture**\\ *Lucas Hermann*, TU Braunschweig}{
+| 11:30-11:50 | \collaps{**Ensemble Kalman Filtering for Stochastic Phase Field Models of Brittle Fracture**\\ *Lucas Hermann*, TU Braunschweig}{
     Numerical models usually involve making assumptions about material parameters, initial conditions etc. Treating these parameters as random variables leads to randomness in the model outcome. I present how I quantify that uncertainty in a Ferrite.jl simulation of a phase field brittle fracture problem and I show how data can be used to decrease that uncertainty in order to get more reliable model outcomes.} \\
-| 11:50-12:15 | \collaps{**Variational Minimization Formulation for Gradient-Extended Coupled Problems**\\ *Basavesh Yaraguntappa*, Universität Stuttgart}{
+| 11:50-12:10 | \collaps{**Variational Minimization Formulation for Gradient-Extended Coupled Problems**\\ *Basavesh Yaraguntappa*, Universität Stuttgart}{
     In this work, we present a two-field canonical minimization formulation for phase-field approach to topology optimization.
     We further extend this to other problems like second-order poro-elasticity to model the hydro-mechanical behaviour of porous media.
     I would also like to share my experience on using Ferrite.jl for teaching from two perspectives. 
     As an instructor teaching courses in computational mechanics and also as an IT administrator at the institute.} \\
-| 12.15-13.15 | **Lunch**
-| 13:15-13.40 | \collaps{**Tensors.jl - Efficient tensor computations with support for automatic differentiation**\\ *Carlsson Kristoffer*, JuliaHub}{
+| 12.10-13.15 | **Lunch**
+| 13:15-13.35 | \collaps{**Tensors.jl - Efficient tensor computations with support for automatic differentiation**\\ *Carlsson Kristoffer*, JuliaHub}{
     Abstract to be added} \\
-| 13:40-14.05 | \collaps{**Ferrite + X**\\ *Fredrik Ekre*, JuliaHub}{
+| 13:35-13:55 | \collaps{**Ferrite + X**\\ *Fredrik Ekre*, JuliaHub}{
     Ferrite is often described as a FEM "toolbox" as opposed to a full fledged FEA platform. In this talk I will present how Ferrite seamlessly integrates with many other packages in the Julia ecosystem to enable more features. For example, BlockArrays.jl can be used for blocked global (or local) system matrices and enable block based solvers, OhMyThreads.jl can be used to enable multithreaded assembly and ForwardDiff.jl can be used to enable automatic differentiation. Hopefully this talk will demonstrate how easy it is to bring more functionality to Ferrite through other packages and inspire you to try out your own combinations of packages in order to tailor for your own Ferrite use case.} \\
-| 14:05-14.30 | \collaps{**A Tale of Two Multigrids: A Case Study on A- and P- Multigrid Methods in Vector Valued PDEs**\\ *Abdelrahman Fathy*, Ruhr-Universität Bochum}{
+| 13:55-14.15 | \collaps{**Ferrite now has true vector interpolations - what, why, and how?**\\ *Knut Andreas Meyer*, Chalmers University of Technology}{
+    With newly added H(div) and H(curl) interpolations, Ferrite.jl can now tackle a broader range of problems — but this also brings extra complexity to `FEValues`. In this talk, I’ll go over what these interpolation types are, when you might need them, and how they’re implemented in Ferrite} \\
+| 14:15-14:35 | \collaps{**A Tale of Two Multigrids: A Case Study on A- and P- Multigrid Methods in Vector Valued PDEs**\\ *Abdelrahman Fathy*, Ruhr-Universität Bochum}{
     Algebraic Multigrid (AMG) methods can be highly effective for solving vector-valued PDEs—such as linear elasticity—when properly tuned with suitable near null spaces. However, classical AMG struggles with higher-order finite element discretizations. In contrast, Polynomial Multigrid (pMG), a geometric multigrid variant, excels at coarsening high-order polynomial spaces down to linear order (p = 1). These two approaches can be effectively combined by applying AMG as the coarse solver within a pMG hierarchy, where AMG is often optimal for the resulting first-order problems. This hybrid strategy is realized in the new Julia package FerriteMultigrid.jl, which builds on Ferrite.jl for finite element infrastructure and AlgebraicMultigrid.jl for coarse-level solves. In this presentation, I will outline the theoretical foundations of this method using linear elasticity as a guiding example and demonstrate how the package helps in quickly developing efficient combined multigrid preconditioners.} \\
-| 14.30-15.00 | **[Fika](https://en.wikipedia.org/wiki/Coffee_culture#Sweden)**
-| 15:00-15.25 | \collaps{**Viscoplastic Modeling the Evolving Mechanical Properties of Shotcrete 3D Printing Material**\\ *Quoc Tuan La*, TU Braunschweig}{
+| 14.35-15.00 | **[Fika](https://en.wikipedia.org/wiki/Coffee_culture#Sweden)**
+| 15:00-15.20 | \collaps{**Viscoplastic Modeling the Evolving Mechanical Properties of Shotcrete 3D Printing Material**\\ *Quoc Tuan La*, TU Braunschweig}{
     This work presents a viscoplastic material model for concrete used in shotcrete 3D printing, which is
 an additive manufacturing method. Numerical examples at both material and structural levels are provided
 to showcase the transient response of the material and the development of plastic failure within an
 additively manufactured structure. The implementation is performed using `Ferrite.jl` as the Finite Element
 framework. In addition, `FerriteInterfaceElements.jl` is utilized to simulate the interlayer
 behavior.} \\
-| 15:25-15.50 | \collaps{**Revisiting Adaptive Mesh Refinement that's not P4est**\\ *Abdulaziz	Mohamed*, Ruhr-Universität Bochum}{
+| 15:20-15.40 | \collaps{**Revisiting Adaptive Mesh Refinement that's not P4est**\\ *Abdulaziz	Mohamed*, Ruhr-Universität Bochum}{
     Update on Adaptive Mesh Refinement (AMR) presented in last year's FerriteCon. This AMR algorithm differs from other algorithms in that the finer elements are superpositioned with their parents rather than substituting them. In contrast to classical AMR techniques, this allows the enforcement of continuity without explicitly forming constraints, as would result in the classical approach due to e.g. hanging nodes. With this algorithm we cache local element contributions reducing the assembly overhead. This is especially beneficial for local timestepping using Discontinuous Galerking (DG) as the timestepping is done per element due to the mass matrix being block-diagonal thus no need to assemble the cached local matrices into a global one. The implementation follows the work of "Efficient multi-level hp-finite elements in arbitrary dimensions" (Kopp et al., 2022).} \\
-| 15:50-16.15 | \collaps{**Ferrite now has true vector interpolations - what, why, and how?**\\ *Knut Andreas Meyer*, Chalmers University of Technology}{
-    With newly added H(div) and H(curl) interpolations, Ferrite.jl can now tackle a broader range of problems — but this also brings extra complexity to `FEValues`. In this talk, I’ll go over what these interpolation types are, when you might need them, and how they’re implemented in Ferrite} \\
+| 15:40-16.00 | \collaps{**Order Matters - How to Boost Finite Element Simulations with Graph Sorting**\\ *Dennis Ogiermann*, Ruhr-Universität Bochum}{
+Many finite element codes tend to be memory bound, which implies that relying on the good cache access patterns matters.
+However, general purpose mesh generators like Gmsh tend to order the elements in a seemingly random way.
+Even worse, the topology of a mesh is, in general, a graph.
+When iterating over the elements, thinking about nodal ansatz functions for now, then it would be ideal to use the reuse nodal information of previous elements as good as possible, i.e. we want to iterate consecutively over neighboring elements.
+In this light the question on how to order the elements can be framed as the quest for finding an ordering, such that the linear path induced by the element numbering minimizes some functional, which describes this neighborhood -- or formally, we want to solve a linear arrangement problem.
+In this talk I will show you on some benchmarks how Gecko.jl can be used to solve this problem, thus speeding up your simulations.
+} \\
+
 | 16:15-17:30 | **Hackathon and open discussion**
-| 18:00       | **Dinner**
+| 18:00       | **Social Dinner**
 
 You can also have a look at the program of previous editions of FerriteCon:
 - [FerriteCon 2022 (Braunschweig, Germany)](/2022/)
