@@ -73,7 +73,7 @@ When iterating over the elements, thinking about nodal ansatz functions for now,
 In this light the question on how to order the elements can be framed as the quest for finding an ordering, such that the linear path induced by the element numbering minimizes some functional, which describes this neighborhood -- or formally, we want to solve a linear arrangement problem.
 In this talk I will show you on some benchmarks how Gecko.jl can be used to solve this problem, thus speeding up your simulations.
 } \\
-| 16:15-17:30 | **Hackathon and open discussion**
+| 16:00-17:30 | **Hackathon and open discussion**
 | 18:00       | **Social Dinner**
 
 You can also have a look at the program of previous editions of FerriteCon:
