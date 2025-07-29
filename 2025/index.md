@@ -20,7 +20,7 @@ collaborations among Ferrite.jl users and developers, as well as to discuss
 how the package can be further developed in the future. The conference will consist of both beginner-friendly 
 and advanced presentations on Ferrite.jl and of current research using Ferrite.jl.
 
-### Schedule
+### Preliminary schedule
 Click on the titles with grey background to expand the abstract. 
 
 | Time        | Activity                                                                   |
@@ -38,7 +38,7 @@ Click on the titles with grey background to expand the abstract.
     toolbox, of great use for us, as it allows for the required freedom to implement our methods.
     We present examples on uncertainty quantifications, topology optimization and coupled
     problems, showing the numerical implementation and results, which highlight the application of
-    Ferrite.jl and discuss the package expansion possibilities."} \\
+    Ferrite.jl and discuss the package expansion possibilities.} \\
 | 11:25-11:50 | \collaps{**Ensemble Kalman Filtering for Stochastic Phase Field Models of Brittle Fracture**\\ *Lucas Hermann*, TU Braunschweig}{
     Numerical models usually involve making assumptions about material parameters, initial conditions etc. Treating these parameters as random variables leads to randomness in the model outcome. I present how I quantify that uncertainty in a Ferrite.jl simulation of a phase field brittle fracture problem and I show how data can be used to decrease that uncertainty in order to get more reliable model outcomes.} \\
 | 11:50-12:15 | \collaps{**Variational Minimization Formulation for Gradient-Extended Coupled Problems**\\ *Basavesh Yaraguntappa*, Universität Stuttgart}{
