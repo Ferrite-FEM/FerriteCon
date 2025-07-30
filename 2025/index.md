@@ -20,7 +20,12 @@ collaborations among Ferrite.jl users and developers, as well as to discuss
 how the package can be further developed in the future. The conference will consist of both beginner-friendly 
 and advanced presentations on Ferrite.jl and of current research using Ferrite.jl.
 
-### Preliminary schedule
+## Registration
+If you have used, contributed to, or are just curious about Ferrite.jl we
+encourage you to participate. While the conference is free of charge, registration is necessary. Please register as soon as possible, but latest **15th of August (2025-08-15)**,
+by sending an email with name and affiliation to [Kim Louisa Auth](mailto:kloau@dtu.dk). The deadline for registration with a presentation has passed.
+
+## Preliminary schedule
 Click on the titles with grey background to expand the abstract. 
 
 | Time        | Activity                                                                   |
@@ -83,11 +88,8 @@ You can also have a look at the program of previous editions of FerriteCon:
 - [FerriteCon 2023 (Bochum, Germany)](/2023/)
 - [FerriteCon 2024 (Gothenburg, Sweden)](/2024/)
 
-**Target audience for FerriteCon**
-
-If you have used, contributed to, or are just curious about Ferrite.jl we
-encourage you to participate. While the conference is free of charge, 
-[registration](#registration_and_abstract_submission) is necessary.
+## Conference topics
+*Please note that the abstract registration deadline has passed*
 
 If you have experience with Ferrite.jl we also encourage you to contribute to
 the conference by giving a presentation. Here are some suggested topics that
@@ -108,12 +110,6 @@ would fit well:
 If you have another topic you would like to discuss, please feel free to do so,
 as long as you can relate it to Ferrite.jl!
 
-## Registration and abstract submission
-To register without a presentation, please register as soon as possible, but latest **15th of August (2025-08-15)**,
-by sending an email with name and affiliation to [Kim Louisa Auth](mailto:kloau@dtu.dk).
-
-To register as a speaker, please submit a title and a brief abstract (~100 words, 3-4 sentences) to
-[Kim Louisa Auth](mailto:kloau@dtu.dk) by the ~~~<s>15th of July (2025-07-15)</s>~~~  **25th of July (2025-07-25)**.
 
 ## Contact
 If you have any questions, please don't hesitate to ask by sending an email to
