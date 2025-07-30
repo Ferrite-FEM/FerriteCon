@@ -56,16 +56,18 @@ Click on the titles with grey background to expand the abstract.
 | 14:15-14:35 | \collaps{**A Tale of Two Multigrids: A Case Study on A- and P- Multigrid Methods in Vector Valued PDEs**\\ *Abdelrahman Fathy*, Ruhr-Universität Bochum}{
     Algebraic Multigrid (AMG) methods can be highly effective for solving vector-valued PDEs—such as linear elasticity—when properly tuned with suitable near null spaces. However, classical AMG struggles with higher-order finite element discretizations. In contrast, Polynomial Multigrid (pMG), a geometric multigrid variant, excels at coarsening high-order polynomial spaces down to linear order (p = 1). These two approaches can be effectively combined by applying AMG as the coarse solver within a pMG hierarchy, where AMG is often optimal for the resulting first-order problems. This hybrid strategy is realized in the new Julia package FerriteMultigrid.jl, which builds on Ferrite.jl for finite element infrastructure and AlgebraicMultigrid.jl for coarse-level solves. In this presentation, I will outline the theoretical foundations of this method using linear elasticity as a guiding example and demonstrate how the package helps in quickly developing efficient combined multigrid preconditioners.} \\
 | 14.35-15.00 | **[Fika](https://en.wikipedia.org/wiki/Coffee_culture#Sweden)**
-| 15:00-15.20 | \collaps{**Viscoplastic Modeling the Evolving Mechanical Properties of Shotcrete 3D Printing Material**\\ *Quoc Tuan La*, TU Braunschweig}{
+| 15:00-15.20 | \collaps{**RunToSolve industry talk (online)**\\ *Cris Moen & Amoke Shabhari*, RunToSolve}{
+Abstract to be added.} \\
+| 15:20-15.40 | \collaps{**Viscoplastic Modeling the Evolving Mechanical Properties of Shotcrete 3D Printing Material**\\ *Quoc Tuan La*, TU Braunschweig}{
     This work presents a viscoplastic material model for concrete used in shotcrete 3D printing, which is
 an additive manufacturing method. Numerical examples at both material and structural levels are provided
 to showcase the transient response of the material and the development of plastic failure within an
 additively manufactured structure. The implementation is performed using `Ferrite.jl` as the Finite Element
 framework. In addition, `FerriteInterfaceElements.jl` is utilized to simulate the interlayer
 behavior.} \\
-| 15:20-15.40 | \collaps{**Revisiting Adaptive Mesh Refinement that's not P4est**\\ *Abdulaziz	Mohamed*, Ruhr-Universität Bochum}{
+| 15:40-16.00 | \collaps{**Revisiting Adaptive Mesh Refinement that's not P4est**\\ *Abdulaziz	Mohamed*, Ruhr-Universität Bochum}{
     Update on Adaptive Mesh Refinement (AMR) presented in last year's FerriteCon. This AMR algorithm differs from other algorithms in that the finer elements are superpositioned with their parents rather than substituting them. In contrast to classical AMR techniques, this allows the enforcement of continuity without explicitly forming constraints, as would result in the classical approach due to e.g. hanging nodes. With this algorithm we cache local element contributions reducing the assembly overhead. This is especially beneficial for local timestepping using Discontinuous Galerking (DG) as the timestepping is done per element due to the mass matrix being block-diagonal thus no need to assemble the cached local matrices into a global one. The implementation follows the work of "Efficient multi-level hp-finite elements in arbitrary dimensions" (Kopp et al., 2022).} \\
-| 15:40-16.00 | \collaps{**Order Matters - How to Boost Finite Element Simulations with Graph Sorting**\\ *Dennis Ogiermann*, Ruhr-Universität Bochum}{
+| 16:00-16.20 | \collaps{**Order Matters - How to Boost Finite Element Simulations with Graph Sorting**\\ *Dennis Ogiermann*, Ruhr-Universität Bochum}{
 Many finite element codes tend to be memory bound, which implies that relying on the good cache access patterns matters.
 However, general purpose mesh generators like Gmsh tend to order the elements in a seemingly random way.
 Even worse, the topology of a mesh is, in general, a graph.
@@ -73,7 +75,7 @@ When iterating over the elements, thinking about nodal ansatz functions for now,
 In this light the question on how to order the elements can be framed as the quest for finding an ordering, such that the linear path induced by the element numbering minimizes some functional, which describes this neighborhood -- or formally, we want to solve a linear arrangement problem.
 In this talk I will show you on some benchmarks how Gecko.jl can be used to solve this problem, thus speeding up your simulations.
 } \\
-| 16:00-17:30 | **Hackathon and open discussion**
+| 16:20-17:30 | **Hackathon and open discussion**
 | 18:00       | **Social Dinner**
 
 You can also have a look at the program of previous editions of FerriteCon:
