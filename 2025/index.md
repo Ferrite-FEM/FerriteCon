@@ -52,7 +52,7 @@ Click on the titles with grey background to expand the abstract.
     I would also like to share my experience on using Ferrite.jl for teaching from two perspectives. 
     As an instructor teaching courses in computational mechanics and also as an IT administrator at the institute.} \\
 | 12.10-13.15 | **Lunch**
-| 13:15-13.35 | \collaps{**Tensors.jl - Efficient tensor computations with support for automatic differentiation**\\ *Carlsson Kristoffer*, JuliaHub}{
+| 13:15-13.35 | \collaps{**Tensors.jl - Efficient tensor computations with support for automatic differentiation**\\ *Kristoffer Carlsson*, JuliaHub}{
     Abstract to be added} \\
 | 13:35-13:55 | \collaps{**Ferrite + X**\\ *Fredrik Ekre*, JuliaHub}{
     Ferrite is often described as a FEM "toolbox" as opposed to a full fledged FEA platform. In this talk I will present how Ferrite seamlessly integrates with many other packages in the Julia ecosystem to enable more features. For example, BlockArrays.jl can be used for blocked global (or local) system matrices and enable block based solvers, OhMyThreads.jl can be used to enable multithreaded assembly and ForwardDiff.jl can be used to enable automatic differentiation. Hopefully this talk will demonstrate how easy it is to bring more functionality to Ferrite through other packages and inspire you to try out your own combinations of packages in order to tailor for your own Ferrite use case.} \\
