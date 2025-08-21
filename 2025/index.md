@@ -20,11 +20,6 @@ collaborations among Ferrite.jl users and developers, as well as to discuss
 how the package can be further developed in the future. The conference will consist of both beginner-friendly 
 and advanced presentations on Ferrite.jl and of current research using Ferrite.jl.
 
-## Registration
-If you have used, contributed to, or are just curious about Ferrite.jl we
-encourage you to participate. While the conference is free of charge, registration is necessary. Please register as soon as possible, but latest **15th of August (2025-08-15)**,
-by sending an email with name and affiliation to [Kim Louisa Auth](mailto:kloau@dtu.dk). The deadline for registration with a presentation has passed.
-
 ## Preliminary schedule
 Click on the titles with grey background to expand the abstract. 
 
@@ -81,12 +76,16 @@ In this light the question on how to order the elements can be framed as the que
 In this talk I will show you on some benchmarks how Gecko.jl can be used to solve this problem, thus speeding up your simulations.
 } \\
 | 16:20-17:30 | **Hackathon and open discussion**
-| 18:00       | **Social Dinner**
+| 19:00       | **Social Dinner at Pincho Nation** \\ [Axeltorv 8](https://maps.app.goo.gl/7ZDTwBmSxrPKUjaV7) \\ Note that the dinner will be at your own cost
 
 You can also have a look at the program of previous editions of FerriteCon:
 - [FerriteCon 2022 (Braunschweig, Germany)](/2022/)
 - [FerriteCon 2023 (Bochum, Germany)](/2023/)
 - [FerriteCon 2024 (Gothenburg, Sweden)](/2024/)
+
+## Public transport
+If you need to use public transport in Copenhagen, you can buy single tickets via [DOT](https://dinoffentligetransport.dk/en), 
+but usually the cheaper option is [rejsekort.dk](https://www.rejsekort.dk/?sc_lang=en) (check-in / check-out system). Both are available as apps.
 
 ## Conference topics
 *Please note that the abstract registration deadline has passed*
