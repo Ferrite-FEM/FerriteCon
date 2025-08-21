@@ -21,7 +21,10 @@ how the package can be further developed in the future. The conference will cons
 and advanced presentations on Ferrite.jl and of current research using Ferrite.jl.
 
 ## Preliminary schedule
-Click on the titles with grey background to expand the abstract. 
+The conference will take place on the [DTU Campus Lyngby, building 414, room 061B](https://maps.app.goo.gl/4ts6ZDjwzjUzxuuS6).
+For those attending online, the meeting link and information will be available here shortly before the conference starts.
+
+Click on the titles with grey background to expand the abstract.
 
 | Time        | Activity                                                                   |
 |-------------|----------------------------------------------------------------------------|
@@ -47,7 +50,7 @@ Click on the titles with grey background to expand the abstract.
     I would also like to share my experience on using Ferrite.jl for teaching from two perspectives. 
     As an instructor teaching courses in computational mechanics and also as an IT administrator at the institute.} \\
 | 12.10-13.15 | **Lunch**
-| 13:15-13.35 | \collaps{**Tensors.jl - Efficient tensor computations with support for automatic differentiation**\\ *Carlsson Kristoffer*, JuliaHub}{
+| 13:15-13.35 | \collaps{**Tensors.jl - Efficient tensor computations with support for automatic differentiation**\\ *Kristoffer Carlsson*, JuliaHub}{
     Abstract to be added} \\
 | 13:35-13:55 | \collaps{**Ferrite + X**\\ *Fredrik Ekre*, JuliaHub}{
     Ferrite is often described as a FEM "toolbox" as opposed to a full fledged FEA platform. In this talk I will present how Ferrite seamlessly integrates with many other packages in the Julia ecosystem to enable more features. For example, BlockArrays.jl can be used for blocked global (or local) system matrices and enable block based solvers, OhMyThreads.jl can be used to enable multithreaded assembly and ForwardDiff.jl can be used to enable automatic differentiation. Hopefully this talk will demonstrate how easy it is to bring more functionality to Ferrite through other packages and inspire you to try out your own combinations of packages in order to tailor for your own Ferrite use case.} \\
@@ -82,6 +85,13 @@ You can also have a look at the program of previous editions of FerriteCon:
 - [FerriteCon 2022 (Braunschweig, Germany)](/2022/)
 - [FerriteCon 2023 (Bochum, Germany)](/2023/)
 - [FerriteCon 2024 (Gothenburg, Sweden)](/2024/)
+
+## Speaker information
+Regular talks are 15min + 5 mins for questions. We will live-stream the conference via Microsoft Teams and record the talks, 
+in order to upload them on the [JuliaLang Youtube channel](https://www.youtube.com/c/TheJuliaLanguage). 
+If you do not consent to this, please contact the organizers and we will exclude your talk from the uploaded videos.
+You can present from your own laptop, in this case please make sure that you can share your slides in a Teams meeting so that our recording will include the slides. 
+The room is equipped with video / audio equipment, and we will be available in the conference room from 8:30 on the day so that you can try connecting your computer.
 
 ## Public transport
 If you need to use public transport in Copenhagen, you can buy single tickets via [DOT](https://dinoffentligetransport.dk/en), 
