@@ -79,7 +79,7 @@ In this light the question on how to order the elements can be framed as the que
 In this talk I will show you on some benchmarks how Gecko.jl can be used to solve this problem, thus speeding up your simulations.
 } \\
 | 16:20-17:30 | **Hackathon and open discussion**
-| 19:00       | **Social Dinner at Pincho Nation** \\ [Axeltorv 8](https://maps.app.goo.gl/7ZDTwBmSxrPKUjaV7) \\ Note that the dinner will be at your own cost
+| 19:00       | **Social Dinner at Pincho Nation** \\ [Axeltorv 8](https://maps.app.goo.gl/7ZDTwBmSxrPKUjaV7) \\ Please register by 24.08.2025 (email kloau@dtu.dk). Note that the dinner will be at your own cost.
 
 You can also have a look at the program of previous editions of FerriteCon:
 - [FerriteCon 2022 (Braunschweig, Germany)](/2022/)
