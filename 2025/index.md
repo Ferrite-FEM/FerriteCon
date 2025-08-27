@@ -20,7 +20,7 @@ collaborations among Ferrite.jl users and developers, as well as to discuss
 how the package can be further developed in the future. The conference will consist of both beginner-friendly 
 and advanced presentations on Ferrite.jl and of current research using Ferrite.jl.
 
-## Preliminary schedule
+## Schedule
 The conference will take place on the [DTU Campus Lyngby, building 414, room 061B](https://maps.app.goo.gl/4ts6ZDjwzjUzxuuS6).
 For those attending online, the meeting link and information will be available here shortly before the conference starts.
 
