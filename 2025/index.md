@@ -9,6 +9,9 @@ FerriteCon 2025 will take place at the [Technical University of Denmark (DTU)](h
 outside Copenhagen, Denmark, on August 28th, 2025, supported by
 [The Danish Center for Applied Mathematics and Mechanics, DCAMM](http://www.dcamm.dk).
 
+Join us online [here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmY2NDU0MmEtNzE0Yy00OGU2LTg3YjctNTc2NmM4MzBhNTE1%40thread.v2/0?context=%7b%22Tid%22%3a%2229147a65-536d-43f9-b802-e0a1b5cf9dbf%22%2c%22Oid%22%3a%22b3424e0c-a3ef-40f1-ab57-e8e122639c20%22%7d)
+(Passcode: `r6VX9Jg3`).
+
 ## Ferrite.jl User & Developer Conference 2025
 [Ferrite.jl](https://ferrite-fem.github.io/Ferrite.jl/stable/) is an open-source
 finite element package written in the [Julia programming
@@ -22,7 +25,7 @@ and advanced presentations on Ferrite.jl and of current research using Ferrite.j
 
 ## Schedule
 The conference will take place on the [DTU Campus Lyngby, building 414, room 061B](https://maps.app.goo.gl/4ts6ZDjwzjUzxuuS6).
-For those attending online, the meeting link and information will be available here shortly before the conference starts.
+For those attending online, you can connect [here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmY2NDU0MmEtNzE0Yy00OGU2LTg3YjctNTc2NmM4MzBhNTE1%40thread.v2/0?context=%7b%22Tid%22%3a%2229147a65-536d-43f9-b802-e0a1b5cf9dbf%22%2c%22Oid%22%3a%22b3424e0c-a3ef-40f1-ab57-e8e122639c20%22%7d) using the passcode `r6VX9Jg3`.
 
 Click on the titles with grey background to expand the abstract.
 
