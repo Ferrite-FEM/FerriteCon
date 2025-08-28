@@ -34,8 +34,8 @@ Click on the titles with grey background to expand the abstract.
 | 09:00-09:25 | **Welcome coffee**
 | 09:25-09:30 | **Opening and introduction**
 | 09:30-10:15 | **_Keynote_** \\ **Differentiable programming for scientific computing with Enzyme and Julia**\\ *Valentin Churavy*, University of Augsburg
-| 10:15-10:50 | **Introduction to Ferrite.jl** \\ *Kim Louisa Auth*, Technical University of Denmark \\ 
-| 10:50-11:10 | Coffee break
+| 10:15-11:00 | **Introduction to Ferrite.jl** \\ *Kim Louisa Auth*, Technical University of Denmark \\ 
+| 11:00-11:10 | Coffee break
 | 11:10-11:30 | \collaps{**Current applications of Ferrite.jl at Institute of Continuum Mechanics (Leibniz University Hannover)**\\*Speaker: TBA*}{
     The research spectrum of IKM covers the modelling and numerically efficient solution of complex
     material behavior, including topology optimization and uncertainty quantification. The solution of
