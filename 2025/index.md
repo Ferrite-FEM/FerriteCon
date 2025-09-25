@@ -33,8 +33,8 @@ Click on the titles with grey background to expand the abstract.
 |-------------|----------------------------------------------------------------------------|
 | 09:00-09:25 | **Welcome coffee**
 | 09:25-09:30 | **Opening and introduction**
-| 09:30-10:15 | **_Keynote_** \\ **Differentiable programming for scientific computing with Enzyme and Julia**\\ *Valentin Churavy*, University of Augsburg
-| 10:15-11:00 | [**Introduction to Ferrite.jl** \\ *Kim Louisa Auth*, Technical University of Denmark](/assets/2025/IntroductionToFerrite2025.pdf) \\ 
+| 09:30-10:15 | **_Keynote_** \\ **Differentiable programming for scientific computing with Enzyme and Julia**\\ *Valentin Churavy*, University of Augsburg ([slides](https://vchuravy.dev/talks/2025_08_28-FerriteCon/))
+| 10:15-11:00 | **Introduction to Ferrite.jl** \\ *Kim Louisa Auth*, Technical University of Denmark ([slides](/assets/2025/IntroductionToFerrite2025.pdf)) \\
 | 11:00-11:10 | Coffee break
 | 11:10-11:30 | \collaps{**Current applications of Ferrite.jl at Institute of Continuum Mechanics (Leibniz University Hannover)**\\*Speaker: TBA*}{
     The research spectrum of IKM covers the modelling and numerically efficient solution of complex
@@ -58,7 +58,7 @@ Click on the titles with grey background to expand the abstract.
     } \\
 | 13:35-13:55 | \collaps{**Ferrite + X**\\ *Fredrik Ekre*, JuliaHub}{
     Ferrite is often described as a FEM "toolbox" as opposed to a full fledged FEA platform. In this talk I will present how Ferrite seamlessly integrates with many other packages in the Julia ecosystem to enable more features. For example, BlockArrays.jl can be used for blocked global (or local) system matrices and enable block based solvers, OhMyThreads.jl can be used to enable multithreaded assembly and ForwardDiff.jl can be used to enable automatic differentiation. Hopefully this talk will demonstrate how easy it is to bring more functionality to Ferrite through other packages and inspire you to try out your own combinations of packages in order to tailor for your own Ferrite use case.} \\
-| 13:55-14.15 | \collaps{[**Ferrite now has true vector interpolations - what, why, and how?**\\ *Knut Andreas Meyer*, Chalmers University of Technology](/assets/2025/FerriteCon2025_KAM.pdf)}{
+| 13:55-14.15 | \collaps{**Ferrite now has true vector interpolations - what, why, and how?**\\ *Knut Andreas Meyer*, Chalmers University of Technology ([slides](/assets/2025/FerriteCon2025_KAM.pdf))}{
     With newly added H(div) and H(curl) interpolations, Ferrite.jl can now tackle a broader range of problems — but this also brings extra complexity to `FEValues`. In this talk, I’ll go over what these interpolation types are, when you might need them, and how they’re implemented in Ferrite} \\
 | 14:15-14:35 | \collaps{**A Tale of Two Multigrids: A Case Study on A- and P- Multigrid Methods in Vector Valued PDEs**\\ *Abdelrahman Fathy*, Ruhr-Universität Bochum}{
     Algebraic Multigrid (AMG) methods can be highly effective for solving vector-valued PDEs—such as linear elasticity—when properly tuned with suitable near null spaces. However, classical AMG struggles with higher-order finite element discretizations. In contrast, Polynomial Multigrid (pMG), a geometric multigrid variant, excels at coarsening high-order polynomial spaces down to linear order (p = 1). These two approaches can be effectively combined by applying AMG as the coarse solver within a pMG hierarchy, where AMG is often optimal for the resulting first-order problems. This hybrid strategy is realized in the new Julia package FerriteMultigrid.jl, which builds on Ferrite.jl for finite element infrastructure and AlgebraicMultigrid.jl for coarse-level solves. In this presentation, I will outline the theoretical foundations of this method using linear elasticity as a guiding example and demonstrate how the package helps in quickly developing efficient combined multigrid preconditioners.} \\
