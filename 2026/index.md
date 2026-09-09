@@ -44,7 +44,7 @@ K. Carlsson, M. Ekh, F. Larsson, K. Runesson. A comparison of computational form
 | 15:10 – 15:30 | \collaps{**Modelling of cast aluminium and ductile phase field modelling**\\*Mélanie Fournier* and *Jacob Gunnarsson*, Chalmers University of Technology}{We are working on problems involving damage modelling and homogenization of multiphase cast aluminium and pearlite with multiple fields. In this talk, we highlight how we use Ferrite.jl and other packages such as FerriteAssembly.jl, MaterialModelsBase.jl and MechanicalMaterialModels.jl for that purpose.} |
 | 15:30 – 15:50 | \collaps{**An application of optimal boundary control in Ferrite.jl**\\*Phil Kreutzheide*, Chalmers University of Technology}{When we model systems with PDEs, we are generally interested in some output quantity. More specifically, we are interested in how that output quantity depends on some input quantity whose value we want to determine. A naive approach is to repeatedly solve the PDE for a chosen set of input parameters and study the output data until we are satisfied with the result. For problems involving nonlinear PDEs or large parameter ranges, however, this quickly becomes prohibitive. Optimal control of PDEs removes the guesswork by posing an optimization problem instead. As in "conventional" optimization, optimal control consists of an objective that measures the deviation from a desired state, subject to some constraints – in this case, a system of PDEs. In this talk, I will go through an application of optimal boundary control of incompressible Navier–Stokes, and its solution via a direct approach.} |
 | 15:50 – 17:00 | Hackathon & open discussion |
-| 19:00 | Social dinner |
+| 19:00 | **Social dinner**\\Please register with Mischa (mischa.blaszczyk@tu-braunschweig.de), including any dietary requirements, by 18.09.2026. Note that the dinner will be at your own expense. |
 
 You can also have a look at the program of previous editions of FerriteCon:
 - [FerriteCon 2022 (Braunschweig, Germany)](/2022/)
@@ -74,6 +74,11 @@ If you have experience with Ferrite.jl we encourage you to contribute to the con
 If you have another topic you would like to discuss, please feel free to do so, as long as you can relate it to Ferrite.jl!
 
 <!-- The conference and meetup is free of charge, but registration is necessary. To register as a speaker, please send an email containing a title and a brief abstract (~100 words, 3-4 sentences) to Quoc Tuan La ([quoc-tuan.la@tu-braunschweig.de](mailto:quoc-tuan.la@tu-braunschweig.de)) at the latest the **28th of August (2026-08-28)**. If you want to attend without presenting, please register as soon as possible, but latest the **18th of September (2026-09-18)**. -->
+
+## Registration
+Registration is open until **18th of September (2026-09-18)**. To register as a participant, please send an email to Mischa Blaszczyk ([mischa.blaszczyk@tu-braunschweig.de](mailto:mischa.blaszczyk@tu-braunschweig.de)).
+
+There will also be a social dinner at your own expense. If you are interested in attending, please indicate this in your email, along with any dietary requirements.
 
 
 ## Contact
