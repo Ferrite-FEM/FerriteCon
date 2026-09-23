@@ -44,13 +44,22 @@ K. Carlsson, M. Ekh, F. Larsson, K. Runesson. A comparison of computational form
 | 15:10 – 15:30 | \collaps{**Modelling of cast aluminium and ductile phase field modelling**\\*Mélanie Fournier* and *Jacob Gunnarsson*, Chalmers University of Technology}{We are working on problems involving damage modelling and homogenization of multiphase cast aluminium and pearlite with multiple fields. In this talk, we highlight how we use Ferrite.jl and other packages such as FerriteAssembly.jl, MaterialModelsBase.jl and MechanicalMaterialModels.jl for that purpose.} |
 | 15:30 – 15:50 | \collaps{**An application of optimal boundary control in Ferrite.jl**\\*Phil Kreutzheide*, Chalmers University of Technology}{When we model systems with PDEs, we are generally interested in some output quantity. More specifically, we are interested in how that output quantity depends on some input quantity whose value we want to determine. A naive approach is to repeatedly solve the PDE for a chosen set of input parameters and study the output data until we are satisfied with the result. For problems involving nonlinear PDEs or large parameter ranges, however, this quickly becomes prohibitive. Optimal control of PDEs removes the guesswork by posing an optimization problem instead. As in "conventional" optimization, optimal control consists of an objective that measures the deviation from a desired state, subject to some constraints – in this case, a system of PDEs. In this talk, I will go through an application of optimal boundary control of incompressible Navier–Stokes, and its solution via a direct approach.} |
 | 15:50 – 17:00 | Hackathon & open discussion |
-| 19:00 | **Social dinner**\\Please register with Mischa (mischa.blaszczyk@tu-braunschweig.de), including any dietary requirements, by 18.09.2026. Note that the dinner will be at your own expense. |
+| 19:00 | **Social dinner**\\ *The registration for the dinner has passed.* Note that the dinner will be at your own expense. |
 
 You can also have a look at the program of previous editions of FerriteCon:
 - [FerriteCon 2022 (Braunschweig, Germany)](/2022/)
 - [FerriteCon 2023 (Bochum, Germany)](/2023/)
 - [FerriteCon 2024 (Gothenburg, Sweden)](/2024/)
 - [FerriteCon 2025 (Lyngby, Denmark)](/2025/)
+
+## Webex meeting information
+The conference is live-streamed via Webex, which can be accessed [here](https://tu-braunschweig.webex.com/tu-braunschweig-en/j.php?MTID=m7523c849931045f794abf26a3f57ea03). Otherwise, the meeting room can be accessed using the information below:
+
+Meeting number:
+2782 639 8610
+
+Meeting password:
+afKW2Yv65tx
 
 ## Speaker information
 Regular talks are 15 minutes + 5 minutes for questions. We will live-stream the conference via Webex and record the talks, in order to upload them on the [JuliaLang YouTube channel](https://www.youtube.com/c/TheJuliaLanguage). If you do not consent to this, please contact the organizers, and we will exclude your talk from the uploaded videos.
@@ -61,7 +70,7 @@ You can present from your own laptop — in that case, please make sure you can 
 If you need to use public transport in Braunschweig, you can buy single tickets from the driver or  more conveniently via the [Meine BSVG](https://www.bsvg.net/) or [VRB Fahrinfo & Tickets](https://www.vrb-online.de/en/service/app) apps. In addition, [Fairtiq](https://fairtiq.com/en/vrb), a check-in / check-out app, is also available. For trains to Braunschweig, please use [Deutsche Bahn (DB Navigator)](https://www.bahn.de/) for schedules and tickets.
 
 ## Conference topics
-*Please note that the abstract registration deadline has passed*
+*Please note that the abstract registration deadline has passed.*
 
 If you have experience with Ferrite.jl we encourage you to contribute to the conference by giving a presentation. Here are some suggested topics that would fit well:
 
@@ -76,6 +85,8 @@ If you have another topic you would like to discuss, please feel free to do so, 
 <!-- The conference and meetup is free of charge, but registration is necessary. To register as a speaker, please send an email containing a title and a brief abstract (~100 words, 3-4 sentences) to Quoc Tuan La ([quoc-tuan.la@tu-braunschweig.de](mailto:quoc-tuan.la@tu-braunschweig.de)) at the latest the **28th of August (2026-08-28)**. If you want to attend without presenting, please register as soon as possible, but latest the **18th of September (2026-09-18)**. -->
 
 ## Registration
+*Please note that the participant registration deadline has passed.*
+
 Registration is open until **18th of September (2026-09-18)**. To register as a participant, please send an email to Mischa Blaszczyk ([mischa.blaszczyk@tu-braunschweig.de](mailto:mischa.blaszczyk@tu-braunschweig.de)).
 
 There will also be a social dinner at your own expense. If you are interested in attending, please indicate this in your email, along with any dietary requirements.
